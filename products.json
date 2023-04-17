@@ -1,0 +1,38 @@
+[
+  {
+    "title": "silla",
+    "description": "silla bar",
+    "price": 25990,
+    "thumbnail": "https://sodimac.scene7.com/is/image/SodimacCL/8757062_01?wid=1500&hei=1500&qlt=70",
+    "code": "aaa123",
+    "stock": 40,
+    "id": 1
+  },
+  {
+    "title": "silla",
+    "description": "silla escritorio",
+    "price": 59990,
+    "thumbnail": "https://sodimac.scene7.com/is/image/SodimacCL/1698052_00?wid=1500&hei=1500&qlt=70",
+    "code": "aaa456",
+    "stock": 64,
+    "id": 2
+  },
+  {
+    "title": "silla",
+    "description": "silla playa",
+    "price": 32990,
+    "thumbnail": "https://sodimac.scene7.com/is/image/SodimacCL/884139X_01?wid=1500&hei=1500&qlt=70",
+    "code": "aaa789",
+    "stock": 7,
+    "id": 3
+  },
+  {
+    "title": "silla",
+    "description": "silla gamer",
+    "price": 79990,
+    "thumbnail": "https://sodimac.scene7.com/is/image/SodimacCL/5967791_01?wid=1500&hei=1500&qlt=70",
+    "code": "aaa987",
+    "stock": 55,
+    "id": 4
+  }
+]
