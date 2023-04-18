@@ -2,10 +2,10 @@
   {
     "title": "silla",
     "description": "silla bar",
-    "price": 25990,
+    "price": 26990,
     "thumbnail": "https://sodimac.scene7.com/is/image/SodimacCL/8757062_01?wid=1500&hei=1500&qlt=70",
-    "code": "aaa123",
-    "stock": 40,
+    "code": "aaa234",
+    "stock": 77,
     "id": 1
   },
   {
@@ -21,7 +21,7 @@
     "title": "silla",
     "description": "silla playa",
     "price": 32990,
-    "thumbnail": "https://sodimac.scene7.com/is/image/SodimacCL/884139X_01?wid=1500&hei=1500&qlt=70",
+    "thumbnail": "https://sodimac.scene7.com/is/image/SodimacCL/1698052_00?wid=1500&hei=1500&qlt=70",
     "code": "aaa789",
     "stock": 7,
     "id": 3
@@ -35,4 +35,5 @@
     "stock": 55,
     "id": 4
   }
+ 
 ]

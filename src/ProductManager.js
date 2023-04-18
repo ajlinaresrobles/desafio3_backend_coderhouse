@@ -126,7 +126,8 @@ const fs = require("fs");
     };
 }
 
-// const manager = new ProductManager("./products.json");
+//  const manager = new ProductManager("./src/products.json");
+
 
 const principalFunction = async()=>{
 try {
