@@ -23,7 +23,7 @@ app.get("/products", async(req, res)=>{
         const limitedProducts = products.slice(0,limit);
         res.send(limitedProducts);
    } catch (error) {
-        console.log(error.message); 
+        res.status(500).json({status: "error", message: error.message });
    }
    
 });
@@ -35,7 +35,7 @@ try {
     const getProductById = products.find((element)=> element.id === id);
     res.send(getProductById);
 } catch (error) {
-    console.log(error.message);
+    res.status(500).json({status: "error", message: error.message });
 }
     
 });
